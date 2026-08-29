@@ -18,7 +18,7 @@ The environment was built to practice common tasks performed by Microsoft 365 Ad
 
 [Lab 4 — Microsoft Teams Administration](https://github.com/ibesuccess59-rgb/Microsoft_Office_365_Administration_HomeLab/tree/bc2ed37e6cfda65c0bcf0b02cc53453859dd0912/Lab%2004%20-%20Microsoft%20Teams%20Administration)
 
-Lab 5 — SharePoint Online Administration
+[Lab 5 — SharePoint Online Administration](https://github.com/ibesuccess59-rgb/Microsoft_Office_365_Administration_HomeLab/tree/50d642a33bca747d9133fe6b67e51df4887e45bf/Lab%2005%20-%20SharePoint%20Online%20%26%20Permissions%20Administration)
 
 Lab 6 — Exchange Mail Flow & Anti-Spam Administration
 
