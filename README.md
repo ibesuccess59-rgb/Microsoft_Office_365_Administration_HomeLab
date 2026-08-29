@@ -24,7 +24,6 @@ Lab 6 — Exchange Mail Flow & Anti-Spam Administration
 
 Lab 7 — Employee Offboarding & Access Revocation
 
-
 ## Technologies Used
 
 - Microsoft 365 Admin Center
