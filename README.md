@@ -14,7 +14,7 @@ The environment was built to practice common tasks performed by Microsoft 365 Ad
 
 [Lab 2 — Entra ID Identity & Group Administration](https://github.com/ibesuccess59-rgb/Microsoft_Office_365_Administration_HomeLab/tree/main/Lab%2002%20-%20Microsoft%20Entra%20ID%3A%20User%20%26%20Group%20Administration)
 
-Lab 3 — Exchange Online Administration
+[Lab 3 — Exchange Online Administration](https://github.com/ibesuccess59-rgb/Microsoft_Office_365_Administration_HomeLab/tree/1fa78266028dedf3f787714f2693ff138ce5921c/Lab%2003%20%E2%80%94%20Exchange%20Online%20%26%20Mailbox%20Administration)
 
 Lab 4 — Microsoft Teams Administration
 
