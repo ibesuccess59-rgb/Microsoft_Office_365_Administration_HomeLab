@@ -10,7 +10,7 @@ The environment was built to practice common tasks performed by Microsoft 365 Ad
 
 ## 📂 Project Labs
 
-Lab 1 — User & License Administration
+[Lab 1 — User & License Administration](https://github.com/ibesuccess59-rgb/Microsoft_Office_365_Administration_HomeLab/tree/main/Lab%2001%20-%20User%20and%20License%20Administration)
 
 Lab 2 — Entra ID Identity & Group Administration
 
